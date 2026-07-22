@@ -8,17 +8,17 @@ and report back without anyone lifting a finger.
 
 ## What I build
 
-**[Telegram AI Inventory Agent](link-to-repo)**
+**[Telegram AI Inventory Agent](https://github.com/Emmanuel-Onwuka-dev/Telegram-AI-Inventory-Agent)**
 A conversational inventory manager. Message it in plain English on Telegram,
 and it reads, updates, and reports on your Google Sheets inventory in
 seconds. No spreadsheet to open, no form to fill.
 
-**[Farm Production Logger](link-to-repo)**
+**[Farm Production Logger](https://github.com/Emmanuel-Onwuka-dev/Farm-Production-Logger)**
 Replaces paper-based daily farm logging with a structured digital pipeline.
 Tracks mortality, feed variance, and stock levels, then sends automated
 Telegram alerts when thresholds are crossed.
 
-**[Stock Market Monitor](link-to-repo)**
+**[Stock Market Monitor](https://github.com/Emmanuel-Onwuka-dev/stock-market-monitor-workflow)**
 An automated daily market digest. Scrapes live stock data, classifies it
 with AI, and delivers a clean summary straight to Telegram every morning.
 No manual checking required.
