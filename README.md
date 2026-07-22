@@ -39,4 +39,4 @@ processes with self-running systems.
 
 ## Let's connect
 
-[LinkedIn](link) - [Portfolio](link) - [Email](mailto:you@example.com)
+www.linkedin.com/in/emmanuel-onwuka-6aa427253- https://x.com/ieezychi - onwukaemmanuelchidi@gmail.com
