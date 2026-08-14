@@ -8,6 +8,12 @@ and report back without anyone lifting a finger.
 
 ## What I build
 
+**[Dynamic Agronomic Router - Automated Commodity Arbitrage & Logistics Engine](https://github.com/Emmanuel-Onwuka-dev/Dynamic-Agronomic-Router-Automated-Commodity-Arbitrage-Logistics-Engine)**
+
+An n8n system that scans commodity markets every 8 hours,
+calculates true arbitrage margins after logistics costs,
+and auto-alerts profitable routes via Slack and Notion.
+
 **[Telegram AI Inventory Agent](https://github.com/Emmanuel-Onwuka-dev/Telegram-AI-Inventory-Agent)**
 A conversational inventory manager. Message it in plain English on Telegram,
 and it reads, updates, and reports on your Google Sheets inventory in
